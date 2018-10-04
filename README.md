@@ -1,6 +1,6 @@
 # zion-data-analysis
 
-Upon my research in preparation for our Top-Down, single-day 16-mile trek through the Zion Narrows, I found that the U.S. Geological Survey (USGS) publishes their data publicly in tab-delimited csv format. To test my knowledge of python, the [pandas](https://pandas.pydata.org/), and [seaborn](https://seaborn.pydata.org/), I decided to do some exploratory analysis.
+Upon my research in preparation for our Top-Down, single-day 16-mile trek through the Zion Narrows, I found that the U.S. Geological Survey (USGS) publishes their data publicly in [tab-delimited csv format](https://nwis.waterdata.usgs.gov/ut/nwis/dvstat/?site_no=09405500&por_09405500_143263=448742,00060,143263). To test my knowledge of python, the [pandas](https://pandas.pydata.org/), and [seaborn](https://seaborn.pydata.org/), I decided to do some exploratory analysis.
 
 Below you will find the water flow measured in Cubic Feet per Second (CFS) plotted by month. The first set of graphs are the median water flow, and the second set of graphs are the 95 percentile water flow. The first set of graphs describe median water flow behavior by months, and the latter set of graphs describe possible erratic water flow behavior by months. As a general reference, 50 CFS indicates relatively easy hiking; 100 CFS indicates difficult and dangerous conditions; 120 CFS or higher indicates that the National Park Service (NPS) will no longer issue permits.
 
