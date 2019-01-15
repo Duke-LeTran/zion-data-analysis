@@ -8,7 +8,10 @@ We see that though past historical data is can be a wonderful predictor, there w
 
 See exploratory data analysis below. Maps are generated via [Caltopo](https://caltopo.com/m/8CKK). Also note, the NPS may have stopped issuing wilderness permits for the Top-Down Narrows hike, both for day and overnight trips due to a disagreement with landowners near the trailhead which starts on private land. Please respect boundaries and check with the NPS for both rules and current conditions. Disclaimer: your safety is your own responsibility; your adherence to existing and current rules is your representation of us as a hiking community. Additionally, I hope this goes without saying -- [leave no trace!](https://lnt.org/learn/seven-principles-overview)
 
-I hope you find this repository informative and useful!
+I hope you find this analysis informative and useful!
+
+## Pictures
+instagram: [@dukeletran](https://www.instagram.com/p/BoKhabDH_da/)
 
 ## Median Water Flow By Month
 ![p50](https://github.com/Duke-LeTran/zion-data-analysis/blob/master/output/zion-by-month-p50.png)
